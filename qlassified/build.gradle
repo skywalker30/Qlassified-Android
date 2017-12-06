@@ -8,7 +8,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
-        versionName "0.1.1"
+        versionName "0.1.2"
     }
     buildTypes {
         release {
@@ -37,10 +37,10 @@ ext {
 
     libraryDescription = 'An Android Wrapper Library for easy Keystore Encryption'
 
-    siteUrl = 'https://github.com/Q42/Qlassified-Android'
-    gitUrl = 'https://github.com/Q42/Qlassified-Android.git'
+    siteUrl = 'https://github.com/skywalker30/Qlassified-Android'
+    gitUrl = 'https://github.com/skywalker30/Qlassified-Android.git'
 
-    libraryVersion = '0.1.1'
+    libraryVersion = '0.1.2'
 
     developerId = 'shapoc'
     developerName = 'Jimmy Aupperlee'
