@@ -1,1 +1,1 @@
-include ':example', ':qlassified'
+include ':qlassified'
